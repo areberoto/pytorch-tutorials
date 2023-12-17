@@ -1,2 +1,3 @@
 # pytorch-tutorials
-PyTorch tutorials from official PyTorch site
+
+PyTorch tutorials from official PyTorch site.
