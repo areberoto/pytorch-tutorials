@@ -1,7 +1,9 @@
-# Copyright 2023 PyTorch
-# SPDX-License-Identifier: BSD-3-Clause
-#
-# Tensors tutorial, basic of tensors
+"""
+Copyright 2023 PyTorch
+SPDX-License-Identifier: BSD-3-Clause
+
+Tensors tutorial, basic of tensors
+"""
 
 import torch
 import numpy as np
